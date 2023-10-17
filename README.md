@@ -20,11 +20,6 @@ Nas imagens abaixo, está o grafo de fluxo, o cálculo de complexidade ciclomát
 
 -------------------------------------------------
 
-Etapa 3
-
-Na branch "documentação", contém o código usado nas etapas anteriores, devidamente documentado.
-
--------------------------------------------------
 
 
 
